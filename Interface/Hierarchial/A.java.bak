@@ -1,0 +1,11 @@
+class A Implements IA{
+   int a=32;
+   public void getA(){
+       System.out.println("Aa\t:"+a);
+	  }
+	  
+   public void getX(){
+       System.out.println(X);
+	  }
+	  
+  }

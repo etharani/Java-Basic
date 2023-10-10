@@ -1,0 +1,8 @@
+class B{
+      int Y=35;
+	  
+	  void getY(){
+	   System.out.println("BY\t:"+Y);
+	}
+	  
+  }
